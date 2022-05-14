@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShathaFA
 - 👀 I’m a software Engineer
 - 🌱 I’m currently learning ..
--i am doing me best though 
+-i am doing my best though 
 - 📫 How to reach me 4010378/2upm.edu.sa
 
 <!---
