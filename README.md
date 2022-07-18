@@ -2,7 +2,7 @@
 - 👀 I’m a software Engineer
 - 🌱 I’m currently learning ..
 -i am doing my best though 
-- 📫 How to reach me 4010378/2upm.edu.sa
+- 📫 How to reach me 4010378@upm.edu.sa
 
 <!---
 ShathaFA/ShathaFA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
